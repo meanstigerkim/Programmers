@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Programmers.Theory
 {
-     class Stack
+    internal class SelectionSort
     {
     }
 }
